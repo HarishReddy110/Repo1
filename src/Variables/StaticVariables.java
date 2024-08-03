@@ -9,6 +9,8 @@ public class StaticVariables {
 		
 		StaticVariables sv=new StaticVariables();
 		System.out.println(sv.f);
+		System.out.println(sv.f);
+		System.out.println(sv.f);
 		
 
 	}
